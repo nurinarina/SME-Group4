@@ -296,7 +296,7 @@ var countdownTimer = setInterval(\'secondPassed()\', 1000);
 
 
                 if (is_null($row['imglink'])) {
-                    echo '<section class="image ' . $clrblind . '"><img src="samplequestionimage.jpg" alt="Girl in a jacket" width="500" height="600"></section>';
+                    echo '<section class="image ' . $clrblind . '"><img src="image/samplequestionimage.jpg" alt="Girl in a jacket" width="500" height="600"></section>';
                 }
                 //imagecodehere
                 
